@@ -1,1 +1,1 @@
-# 3-column-preview-card
+#yami-luck.github.io
